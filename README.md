@@ -1,1 +1,2 @@
-It's a simple calculator build using tkinter module of python  
+It's a simple calculator built using the Tkinter module in Python.
+
